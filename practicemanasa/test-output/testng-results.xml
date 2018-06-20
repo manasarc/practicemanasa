@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[element is present]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[element is present]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33088" started-at="2018-06-20T06:41:01Z" finished-at="2018-06-20T06:41:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33088" started-at="2018-06-20T06:41:01Z" finished-at="2018-06-20T06:41:34Z">
+      <class name="Scripts.Buyjewellery">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:Scripts.Buyjewellery@bd8db5a]" name="openapp" is-config="true" duration-ms="4770" started-at="2018-06-20T12:11:01Z" finished-at="2018-06-20T12:11:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="jewellerybuy()[pri:0, instance:Scripts.Buyjewellery@bd8db5a]" name="jewellerybuy" duration-ms="16037" started-at="2018-06-20T12:11:05Z" finished-at="2018-06-20T12:11:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+            <line>
+              <![CDATA[element is present]]>
+            </line>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- jewellerybuy -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:Scripts.Buyjewellery@bd8db5a]" name="closeapp" is-config="true" duration-ms="105" started-at="2018-06-20T12:11:22Z" finished-at="2018-06-20T12:11:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Scripts.Buyjewellery -->
+      <class name="Scripts.Sort_diamondjewellery">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:Scripts.Sort_diamondjewellery@2f943d71]" name="openapp" is-config="true" duration-ms="4892" started-at="2018-06-20T12:11:22Z" finished-at="2018-06-20T12:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="sortjewellery()[pri:0, instance:Scripts.Sort_diamondjewellery@2f943d71]" name="sortjewellery" duration-ms="7152" started-at="2018-06-20T12:11:27Z" finished-at="2018-06-20T12:11:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+            <line>
+              <![CDATA[element is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sortjewellery -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:Scripts.Sort_diamondjewellery@2f943d71]" name="closeapp" is-config="true" duration-ms="80" started-at="2018-06-20T12:11:34Z" finished-at="2018-06-20T12:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Scripts.Sort_diamondjewellery -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
