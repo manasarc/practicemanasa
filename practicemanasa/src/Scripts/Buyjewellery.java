@@ -7,6 +7,7 @@ import POM.Account_Details_Page;
 import POM.GemStoneEarrings_page;
 import POM.OnlineJewelleryHome_page;
 import POM.ShoppingBag_Page;
+import POM.The_Priyanka_HeartEarrings_Page;
 
 public class Buyjewellery extends Base_test{
 	@Test
